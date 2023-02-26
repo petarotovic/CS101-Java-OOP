@@ -1,4 +1,4 @@
-package Nedelja1;
+package Nedelja1.IndividualneVezbe;
 
 public class Zadatak2 {
     public static void main(String[] args) {
