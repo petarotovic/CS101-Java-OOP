@@ -12,6 +12,6 @@ public class Zadatak6 {
         System.out.println("Napojnica u % -> ");
         double napojnica = sc.nextDouble();
 
-        System.out.println("Napojnica -> " + (medjuzbir * (napojnica / 100)) + " Ukupno -> " + (medjuzbir + (napojnica / 10)));
+        System.out.println("Napojnica -> " + (medjuzbir * (napojnica / 100)) + " Ukupno -> " + (medjuzbir + (napojnica / 10 )));
     }
 }
